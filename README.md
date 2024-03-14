@@ -5,6 +5,7 @@ Kalkulator ini akan memberikan Anda gambaran berat badan Anda dengan nilai umum.
 
 ## Satuan BMI 
 | BMI | Status |
+| ----------- | :---------: |
 | Kurang dari 18.5 | Kekurangan Berat Badan |
 | 18.5-24.9 | Normal |
 | 25.0-29.9 | Kelebihan Berat Badan |
