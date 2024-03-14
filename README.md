@@ -1,1 +1,1 @@
-echo "# 4-mar-24-fauziwig"
+# 4-mar-24-fauziwig
