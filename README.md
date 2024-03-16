@@ -10,3 +10,7 @@ Kalkulator ini akan memberikan Anda gambaran berat badan Anda dengan nilai umum.
 | 18.5-24.9 | Normal |
 | 25.0-29.9 | Kelebihan Berat Badan |
 | 30.0 atau lebih | Kegemukan |
+
+## URL 
+
+![ss-calc-bmi](https://github.com/fauziwig/bmi-calculator-site/assets/101690263/a81699bd-c188-46da-8757-14418723b6d8)
