@@ -12,5 +12,6 @@ Kalkulator ini akan memberikan Anda gambaran berat badan Anda dengan nilai umum.
 | 30.0 atau lebih | Kegemukan |
 
 ## URL 
+https://fauziwig.github.io/bmi-calculator-site/ 
 
 ![ss-calc-bmi](https://github.com/fauziwig/bmi-calculator-site/assets/101690263/a81699bd-c188-46da-8757-14418723b6d8)
